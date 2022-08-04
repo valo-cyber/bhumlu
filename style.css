@@ -1,0 +1,77 @@
+.butt{
+    background-color: palevioletred;
+}
+.butt1{
+    background-color: purple;
+}
+a{
+    text-decoration: none;
+}
+.box{
+    /* padding-left: 2rem; */
+    position: relative;
+    right: 18%;
+    top: 10px;
+}
+.numb{
+    font: 2em sans-serif;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.numb1{
+    color: purple;
+}
+.sales{
+    background-color:rgba(137, 43, 226, 0.767); 
+}
+.white{
+    color: white;
+}
+.visits{
+    background-color: rgba(0, 128, 0, 0.712);
+}
+.products{
+    background-color: rgba(255, 0, 0, 0.623);
+}
+.user{
+    background-color: orange;
+}
+.numb2{
+    font: 1.5em sans-serif;
+}
+.live{
+    color: purple;
+}
+.live1{
+    color: green;
+}
+.live2{
+    color: red;
+}
+
+.live3{
+    color: orange;
+}
+.button4{
+    background-color: orange;
+    margin-bottom: 2rem;
+}
+.button1{
+    background-color: purple;
+    margin-bottom: 2rem;
+}
+.button2{
+    background-color: green;
+    margin-bottom: 2rem;
+}
+.button3{
+    background-color: red;
+    margin-bottom: 2rem;
+}
